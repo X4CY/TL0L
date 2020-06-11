@@ -143,9 +143,9 @@ sleep 1
 echo "Done ...."
 sleep 1
 echo "thanks..."
-
-clear
 sleep 1
 exit
+
+
 
 
