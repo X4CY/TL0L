@@ -139,10 +139,10 @@ pw = Alanwalker3782
 +---------------------+"
 termux-torch on
 cd /sdcard
-
 sleep 1
 echo "Done ...."
 sleep 1
-
 sleep 1
 exit
+
+
